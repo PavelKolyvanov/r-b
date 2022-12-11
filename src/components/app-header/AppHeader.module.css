@@ -19,4 +19,11 @@
 .item {
   display: flex;
   align-items: center;
+  text-decoration: none;
+  color: green;
+}
+
+.link {
+  text-decoration: none;
+  color: green;
 }

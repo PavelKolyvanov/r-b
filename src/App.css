@@ -1,17 +1,11 @@
 .App {
-  text-align: center;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 2;
+
+
 
 }
 
 .mainContent {
   display: flex;
-}
+  justify-content: center;
 
-* {
-  outline-width: 1px;
-  outline-style: solid;
-  outline-color: red;
 }

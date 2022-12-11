@@ -1,0 +1,22 @@
+.ingredients {
+  width: 600px;
+  height: 912px;
+}
+
+.cards {
+  text-align: center;
+}
+
+.title_type {
+  text-align: left;
+}
+
+.type {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 32px;
+}
+
+.tabs {
+  display: flex;
+}

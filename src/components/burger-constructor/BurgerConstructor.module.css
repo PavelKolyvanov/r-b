@@ -1,0 +1,33 @@
+.content {
+  width: 600px;
+  height: 912px;
+}
+
+.constructor_list {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  align-items: flex-end;
+}
+
+.items {
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.item_fullwidth {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.result {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
